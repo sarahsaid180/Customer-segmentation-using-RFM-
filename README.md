@@ -1,7 +1,7 @@
 # Customer-segmentation-using-RFM-
 
 ## Data Description:
-The data consists of **541909** rows x **8** columns, totalling in **33.1+ MB** approximately.
+The data consists of **541909** rows x **8** columns, totaling in **33.1+ MB** approximately.
 **The Goal** based on our features we have to categorize the customers.
 * 	InvoiceNo
 * 	StockCode
@@ -30,7 +30,7 @@ The data consists of **541909** rows x **8** columns, totalling in **33.1+ MB** 
 Then ordered the values from **1** to **5**.
 Then combing them all, in the RFM score.
 
-Also I created a segemnts for the customers:
+Also I created a segments for the customers:
 * Promising.
 * About to Sleep.
 * Hibernating.
